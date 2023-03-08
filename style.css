@@ -1,0 +1,38 @@
+i {
+    font-size: 300%;
+    color: black;
+}
+
+.text-indent {
+    text-indent: 30px;
+}
+.row {
+    padding: 10px;
+}
+
+.parallax {
+    background-image: url(./images/space.png);
+    min-height: 930px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallaxTwo{
+    background-image: url(./images/whiteTech.avif);
+    min-height: 200px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallaxThree{
+    background-image: url(./images/whiteTech.avif);
+    min-height: 100px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
